@@ -1,0 +1,207 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-06-12T07:09:53.124428",
+    "startedAt": "2024-06-12T07:09:49.243740",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AI-Maker-Space/AI-Engineering-3.git",
+        "commit": "39f80fe2677fac69e8393b9947636e36f54c5487"
+    },
+    "email": "madwadasa@gmail.com",
+    "root": "/mnt/c/users/vpkri/mlops-course/week2/AI-Engineering-3",
+    "host": "feetofvayu",
+    "username": "vpkrishna",
+    "executable": "/home/vpkrishna/anaconda3/envs/week2rag/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2419.198999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2419.199,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 13.183479309082031
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.48824691772461
+    }
+}
